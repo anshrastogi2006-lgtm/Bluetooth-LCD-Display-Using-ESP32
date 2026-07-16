@@ -1,8 +1,9 @@
 # Bluetooth-LCD-Display-Using-ESP32
 A Bluetooth-controlled 16x2 LCD Display using ESP32. Text entered from an Android phone is displayed wirelessly on the LCD in real time using Bluetooth Serial communication.
-# Bluetooth Controlled LCD Display using ESP32
 
-![Project](images/project.jpg)
+## 📸 Project Image
+
+![Bluetooth LCD Display using ESP32](images/project.jpg)
 
 ## 📖 Overview
 
